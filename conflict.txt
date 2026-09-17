@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Version A - from main
+=======
+>>>>>>> feature/conflict-demo
